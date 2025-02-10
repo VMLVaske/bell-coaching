@@ -3,8 +3,8 @@
 # main menu
 
 [[main]]
-name = "Coachings"
-url = "/coachings"
+name = "Coaching"
+url = "/coaching"
 weight = 1
 
 [[main]]
