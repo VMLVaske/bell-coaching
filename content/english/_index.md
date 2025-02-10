@@ -21,7 +21,7 @@ features:
     button:
       enable: true
       label: "Coachings"
-      link: "/"
+      link: "coachings"
 
   - title: "Trainings"
     image: "/images/service-2.png"
@@ -29,18 +29,13 @@ features:
     button:
       enable: true
       label: "Trainings"
-      link: "/"
+      link: "trainings"
 
   - title: "Workshops"
     image: "/images/service-3.png"
     content: "Mit Herzblut, Empathie und fachlichem Wissen lassen wir Trainingssituationen entstehen, in denen Teilnehmer sich trauen ihre Komfortzone zu verlassen, ihr eigenes Verhalten zu hinterfragen und voneinander zu lernen. Egal ob Leadership, Kommunikation oder Schlagfertigkeit - wir legen Ihnen das Zepter in die Hand. "
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
     button:
       enable: true
       label: "Workshops"
-      link: "/"
+      link: "workshops"
 ---
