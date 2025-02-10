@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/company/bell-coaching-training/"
+    },
+    {
+      "name": "xing",
+      "icon": "fab fa-xing",
+      "link": "https://www.xing.com/profile/Isabell_Simic"
+    }
+  ]
+}
