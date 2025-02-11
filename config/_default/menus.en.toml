@@ -33,7 +33,7 @@ weight = 3
 [[main]]
 parent = "Workshops"
 name = "Kommunikation"
-url = "/workshops/commmunication"
+url = "/workshops/communication"
 
 [[main]]
 parent = "Workshops"
