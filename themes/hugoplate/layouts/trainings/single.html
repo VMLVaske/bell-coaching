@@ -1,0 +1,38 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Params.description }}</p>
+
+  <!-- Display banner if it exists -->
+  {{ with .Params.banner }}
+    <section class="banner">
+      <h2>{{ .title }}</h2>
+      <p>{{ .content }}</p>
+      <img src="{{ .image }}" alt="Banner Image">
+      {{ if .button.enable }}
+        <a href="{{ .button.link | absURL }}" class="btn btn-primary">{{ .button.label }}</a>
+      {{ end }}
+    </section>
+  {{ end }}
+
+  <!-- Display features if they exist -->
+  {{ if .Params.features }}
+    <section class="features">
+      {{ range .Params.features }}
+        <div class="feature">
+          <h3>{{ .title }}</h3>
+          <p>{{ .content }}</p>
+          <ul>
+            {{ range .bulletpoints }}
+              <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+          {{ if .button.enable }}
+            <a href="{{ .button.link | absURL }}" class="btn btn-primary">{{ .button.label }}</a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </section>
+  {{ end }}
+</article>
+{{ end }}
