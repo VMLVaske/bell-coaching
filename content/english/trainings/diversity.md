@@ -1,4 +1,6 @@
 ---
+
+title: Diversity
 # Banner
 banner:
   title: "Diversity"
