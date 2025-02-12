@@ -4,7 +4,7 @@ banner:
   title: "Sie Können Mehr"
   content: "Durch individuelle und personalisierte Trainings und Coachings können Sie endlich Ihr volles Potential entfalten."
   image: "/images/banner.png"
-  logo: "/images/logo_full.png"
+  logo: "/images/logo-full.png"
   additional_text: "Einfach Fabellhaft"
   button:
     enable: true
