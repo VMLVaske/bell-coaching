@@ -47,5 +47,3 @@ features:
       label: "Interesse geweckt?"
       link: "contact"
 ---
-
-Some Text?
