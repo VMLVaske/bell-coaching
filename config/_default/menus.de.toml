@@ -1,0 +1,75 @@
+############# English navigation ##############
+
+# main menu
+
+[[main]]
+name = "Coaching"
+url = "/coaching"
+weight = 1
+
+[[main]]
+name = "Trainings"
+weight = 2
+
+[[main]]
+parent = "Trainings"
+name = "Emphatisches Leadership"
+url = "/trainings/emphatic-leadership"
+
+[[main]]
+parent = "Trainings"
+name = "Diversity"
+url = "/trainings/diversity"
+
+[[main]]
+parent = "Trainings"
+name = "Prioritätenmanagement"
+url = "/trainings/priority-management"
+
+[[main]]
+name = "Workshops"
+weight = 3
+
+[[main]]
+parent = "Workshops"
+name = "Kommunikation"
+url = "/workshops/communication"
+
+[[main]]
+parent = "Workshops"
+name = "Schlagfertigkeit"
+url = "/workshops/schlagfertigkeit"
+
+[[main]]
+parent = "Workshops"
+name = "Zeit- & Selbstmanagement"
+url = "/workshops/time-management"
+
+[[main]]
+name = "Über uns"
+url = "/about"
+weight = 4
+
+
+
+
+# footer menu
+[[footer]]
+name = "Impressum"
+url = "/imprint"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 2
+
+[[footer]]
+name = "Über uns"
+url = "/about"
+weight = 3
+
+[[footer]]
+name = "Kontakt"
+url = "/contact"
+weight = 4
