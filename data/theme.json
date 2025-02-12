@@ -5,7 +5,7 @@
         "primary": "#206038",
         "body": "#fafafa",
         "border": "#f1af09",
-        "theme_light": "#fafafa",
+        "theme_light": "#e6e7e7",
         "theme_dark": "#352131"
       },
       "text_color": {
@@ -19,7 +19,7 @@
         "primary": "#9fdfb8",
         "body": "#222222",
         "border": "#f6b40e",
-        "theme_light": "#222222",
+        "theme_light": "#373737",
         "theme_dark": "#decada"
       },
       "text_color": {
