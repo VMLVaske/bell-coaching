@@ -2,7 +2,7 @@
 title: "Über Uns"
 meta_title: "About"
 description: "über Bell Coaching"
-image: "/images/avatar.png"
+image: "/images/avatar.webp"
 draft: false
 ---
 

@@ -14,7 +14,7 @@ banner:
 # Features
 features:
   - title: "Coachings"
-    image: "/images/service-1.png"
+    image: "/images/bell-coaching-leadership-workshop.webp"
     content: "In unseren Coaching Sessions bedienen wir uns eines reich gefüllten Methodenkoffers basierend auf erprobten Erfahrungswerten und wissenschaftlichen Befunden aus der Psychologie. Jedes Problem wird dadurch zu einer lösbaren Aufgabe, an der man wachsen kann. "
     bulletpoints:
       - "Systemisches Coaching"
@@ -22,15 +22,15 @@ features:
       - "Visualisierungsübungen"
     button:
       enable: true
-      label: "Coachings"
-      link: "coachings"
+      label: "Zu unseren Coachings"
+      link: "/en/coaching"
 
   - title: "Trainings"
-    image: "/images/service-2.png"
+    image: "/images/bell-coaching-kommunikation-training.webp"
     content: "Mit Herzblut, Empathie und fachlichem Wissen lassen wir Trainingssituationen entstehen, in denen Teilnehmer sich trauen ihre Komfortzone zu verlassen, ihr eigenes Verhalten zu hinterfragen und voneinander zu lernen. Egal ob Leadership, Kommunikation oder Schlagfertigkeit - wir legen Ihnen das Zepter in die Hand."
     button:
       enable: true
-      label: "Trainings"
+      label: "Mehr über unsere Trainings"
       link: "trainings"
 
   - title: "Workshops"
@@ -38,6 +38,7 @@ features:
     content: "Mit Herzblut, Empathie und fachlichem Wissen lassen wir Trainingssituationen entstehen, in denen Teilnehmer sich trauen ihre Komfortzone zu verlassen, ihr eigenes Verhalten zu hinterfragen und voneinander zu lernen. Egal ob Leadership, Kommunikation oder Schlagfertigkeit - wir legen Ihnen das Zepter in die Hand. "
     button:
       enable: true
-      label: "Workshops"
+      label: "Mehr zu unseren Workshops"
       link: "workshops"
 ---
+
