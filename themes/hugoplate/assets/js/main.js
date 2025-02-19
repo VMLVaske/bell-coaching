@@ -18,6 +18,7 @@
   // ----------------------------------------
   new Swiper(".testimonial-slider", {
     spaceBetween: 24,
+    speed: 8, //control speed for partner logo slider
     loop: true,
     pagination: {
       el: ".testimonial-slider-pagination",

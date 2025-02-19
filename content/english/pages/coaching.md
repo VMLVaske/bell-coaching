@@ -9,6 +9,8 @@ draft: false
 
 Unsere Coachings basieren auf den Prinzipien des systemischen Coachings. Jeder Mensch weiß eigentlich, was er tun muss, um sein höchstes Potential zu entfalten oder sein derzeitiges Problem zu lösen. Das ist unser wichtigstes Prinzip. Wir wollen weg von Ratschlägen und Beratung und hin zur Selbsterkenntnis und eigenständiger Problemlösung. Man meint, dass Coaching eine neue Modeerscheinung ist, doch bereits Sokrates war für seine Technik der Mäeutik bekannt, in der er durch gezielte Fragetechniken seine Mitmenschen zum Denken und zur Erkenntnis anregen konnte. Die Technik wird oft mit der Arbeit einer Hebamme verglichen. Sie unterstützt die Gebärende dabei, ihr Kind eigenständig auf die Welt zu bringen.
 
+{{< slider dir="images/gallery" class="max-w-[600px] ml-0"  width="330" webp="true" command="fit" option="" zoomable="false" >}}
+
 #### Wer sind unsere Coaching-Klienten?
 
 Mit einer weiten Spanne an zufriedenen Klienten konnten wir bei Bell Coaching und Training bereits Personen und Teams aus den folgenden Zielgruppen passgenau weiterhelfen:
@@ -67,4 +69,4 @@ Wir sind der Meinung, dass jeder Mensch das Recht hat, sein Potential zu erkenne
 
 {{< /accordion >}}
 
-{{< slider dir="images/gallery" class="max-w-[600px] ml-0"  width="330" webp="true" command="stretch" option="" zoomable="false" >}}
+
