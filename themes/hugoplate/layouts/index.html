@@ -2,9 +2,9 @@
   <!-- Banner -->
   {{ with .Params.banner }}
     <section class="section pt-14">
-      <div class="container">
+      <div class="container mx-auto flex items-center">
         <div class="row justify-center align-items-center">
-          <div class="lg:col-6 md:col-8 mb-8 text-center">
+          <div class="w-1/2 flex flex-col justify-center lg:col-6 md:col-8 mb-8 text-center">
             <div class="my-6">
               {{if eq site.Params.theme_default "dark"}}
               {{ partial "logo" (dict "Src" "/images/logo-full-darkmode.png" "Alt" "Dark Mode Logo" "Loading" "eager" "Class" "mx-auto" "style" "height: 600px;" "width: auto;" "DisplayXL" "800x") }}
@@ -33,7 +33,7 @@
               {{ end }}
             {{ end }}
           </div>
-          <div class="lg:col-6 md:col-4 mb-8 bg-fixed">
+          <div class="w-1/2 flex lg:col-6 md:col-4 mb-8">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto" "style" "height: 600px; width: auto;" "DisplayXL" "800x") }}
           </div>
         </div>
