@@ -66,3 +66,5 @@ Falls Ihr Coaching durch berufliche Verhältnisse begründet werden kann und dam
 Wir sind der Meinung, dass jeder Mensch das Recht hat, sein Potential zu erkennen und professionell gefördert zu werden. Dies sollte keine Frage des Geldes sein, weshalb wir jedes Jahr 24 Stunden Coaching sozial benachteiligten Personen oder Studenten zur Verfügung stellen. Kommen Sie diesbezüglich gern auf uns zu.
 
 {{< /accordion >}}
+
+{{< slider dir="images/gallery" class="max-w-[600px] ml-0"  width="330" webp="true" command="stretch" option="" zoomable="false" >}}
