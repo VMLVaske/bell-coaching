@@ -9,12 +9,12 @@ weight = 1
 
 [[main]]
 name = "Trainings"
-url = "/trainings"
+url = "/trainings-overview"
 weight = 2
 
 [[main]]
 parent = "Trainings"
-name = "Emphatisches Leadership"
+name = "Empathic Leadership"
 url = "/trainings/emphatic-leadership"
 
 [[main]]
@@ -24,31 +24,31 @@ url = "/trainings/diversity"
 
 [[main]]
 parent = "Trainings"
-name = "Prioritätenmanagement"
+name = "Priority Management"
 url = "/trainings/priority-management"
 
 [[main]]
 name = "Workshops"
-url = "workshops"
+url = "/workshops-overview"
 weight = 3
 
 [[main]]
 parent = "Workshops"
-name = "Kommunikation"
+name = "Communication"
 url = "/workshops/communication"
 
 [[main]]
 parent = "Workshops"
-name = "Schlagfertigkeit"
-url = "/workshops/schlagfertigkeit"
+name = "Confidence"
+url = "/workshops/confidence"
 
 [[main]]
 parent = "Workshops"
-name = "Zeit- & Selbstmanagement"
+name = "Time Management"
 url = "/workshops/time-management"
 
 [[main]]
-name = "Über uns"
+name = "About"
 url = "/about"
 weight = 4
 
@@ -57,7 +57,7 @@ weight = 4
 
 # footer menu
 [[footer]]
-name = "Impressum"
+name = "Imprint"
 url = "/imprint"
 weight = 1
 
@@ -67,11 +67,11 @@ url = "/privacy-policy"
 weight = 2
 
 [[footer]]
-name = "Über uns"
+name = "About"
 url = "/about"
 weight = 3
 
 [[footer]]
-name = "Kontakt"
+name = "Contact"
 url = "/contact"
 weight = 4
