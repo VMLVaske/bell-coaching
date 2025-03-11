@@ -1,5 +1,6 @@
 ---
-title: "Business Coach München: Leadership & Karriere Coaching"
+title: "Business Coach München"
+subtitle: "Leadership & Karriere Coaching"
 meta-title: ""
 description: "Ihr erfahrener Business Coach in München 80335. Individuelle Leadership-Workshops und Karriereberatung für Fach- und Führungskräfte."
 draft: false
