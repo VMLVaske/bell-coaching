@@ -1,10 +1,11 @@
 ---
 # Banner
 banner:
-  title: "Sie Können Mehr"
-  content: "Durch individuelle und personalisierte Trainings und Coachings können Sie endlich Ihr volles Potential entfalten."
-  image: "/images/banner.png"
-  logo: "/images/logo-full.png"
+  title: "Entfalten Sie ihr Potenzial"
+  content: "Individuelle Coachings und praxisnahe Trainings für Führungskräfte und Teams – mit Methoden, die wirklich wirken."
+  image: "/images/banner.webp"
+  bannerLogo: "/images/logo_stacked.svg"
+  bannerLogoDark: "/images/logo_darkmode_stacked.svg"
   additional_text: "Einfach Fabellhaft"
   button:
     enable: true
@@ -13,32 +14,46 @@ banner:
 
 # Features
 features:
-  - title: "Coachings"
-    image: "/images/bell-coaching-leadership-workshop.webp"
-    content: "In unseren Coaching Sessions bedienen wir uns eines reich gefüllten Methodenkoffers basierend auf erprobten Erfahrungswerten und wissenschaftlichen Befunden aus der Psychologie. Jedes Problem wird dadurch zu einer lösbaren Aufgabe, an der man wachsen kann. "
+  - title: "Coaching für Führungskräfte"
+    image: "/images/9F5A7680.webp"
+    content: "ede Herausforderung birgt die Chance zu wachsen. In unseren individuellen Coaching-Sessions entwickeln Sie mit bewährten psychologischen Methoden und praxisnahen Ansätzen nachhaltige Lösungen für Ihren Führungsalltag."
     bulletpoints:
-      - "Systemisches Coaching"
-      - "NLP"
-      - "Visualisierungsübungen"
+      - "Systemisches Coaching für nachhaltige Führung"
+      - "Neuro-Linguistisches Programmieren (NLP)"
+      - "Klarheit durch Visualisierungstechniken"
     button:
       enable: true
-      label: "Zu unseren Coachings"
+      label: "Mehr übere unsere Coachings"
       link: "/en/coaching"
 
-  - title: "Trainings"
+  - title: "Leadership- und Kommunikationstrainings"
     image: "/images/bell-coaching-kommunikation-training.webp"
-    content: "Mit Herzblut, Empathie und fachlichem Wissen lassen wir Trainingssituationen entstehen, in denen Teilnehmer sich trauen ihre Komfortzone zu verlassen, ihr eigenes Verhalten zu hinterfragen und voneinander zu lernen. Egal ob Leadership, Kommunikation oder Schlagfertigkeit - wir legen Ihnen das Zepter in die Hand."
+    content: "Unsere Trainings geben Ihnen die Werkzeuge an die Hand, um souverän zu führen, klar zu kommunizieren und in schwierigen Situationen schlagfertig zu reagieren. Lernen Sie in einer inspirierenden Umgebung, die zum Mitmachen und Ausprobieren einlädt."
+    bulletpoints:
+      - "Empathische Führung und Teamdynamik"
+      - "Erfolgreiche Kommunikationstechniken"
+      - "Schlagfertigkeit im Berufsalltag"
     button:
       enable: true
       label: "Mehr über unsere Trainings"
-      link: "trainings"
+      link: "/en/trainings"
 
-  - title: "Workshops"
-    image: "/images/service-3.png"
-    content: "Mit Herzblut, Empathie und fachlichem Wissen lassen wir Trainingssituationen entstehen, in denen Teilnehmer sich trauen ihre Komfortzone zu verlassen, ihr eigenes Verhalten zu hinterfragen und voneinander zu lernen. Egal ob Leadership, Kommunikation oder Schlagfertigkeit - wir legen Ihnen das Zepter in die Hand. "
+  - title: "Praxisnahe Workshops für Unternehmen"
+    image: "/images/9F5A7831.webp"
+    content: "Unsere interaktiven Workshops ermöglichen es Ihnen und Ihrem Team, neue Perspektiven zu gewinnen und Ihre Zusammenarbeit auf ein neues Level zu heben. Mit einer Kombination aus Fachwissen, Empathie und direkter Anwendung gestalten wir Lernräume, die nachhaltig wirken."
+    bulletpoints:
+      - "Diversität und Inklusion am Arbeitsplatz"
+      - "Zeit- und Selbstmanagement"
+      - "Prioritäten setzen und effizient arbeiten"
     button:
       enable: true
       label: "Mehr zu unseren Workshops"
-      link: "workshops"
+      link: "/en/workshops"
+
+#Client Logos
+clients:
+  title: "Unsere Clienten"
+  description: "Some description for clients"
+  image: "/images/all_partners.svg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Was unsere Kunden sagen"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+description: "Lesen Sie, was unsere Kunden über ihre Erfahrungen mit unseren Coachings und Trainings sagen. Erfolgsgeschichten aus erster Hand!"
 
 # Testimonials
 testimonials:

@@ -1,51 +1,54 @@
 ---
+title: "Empathisches Leadership-Training"
+meta_title: "Empathisches Leadership & Führungskräftetraining"
+description: "Führungskräfte-Training für empathische Führung: Kommunikation verbessern, Teams motivieren & wertschätzend führen."
+draft: false
+
 # Banner
 banner:
-  title: "Emphatisches Leadership"
-  content: "Stark und Vertrauensvoll"
+  title: "Empathisch führen, nachhaltig inspirieren"
+  content: "Starke Führung beginnt mit Vertrauen, Klarheit und Empathie. Entwickeln Sie Ihren individuellen Führungsstil und lernen Sie, Ihr Team wertschätzend zu motivieren."
   image: "/images/banner.png"
   button:
     enable: false
-    label: "Kostenloses Erstgespräch"
-    link: "contact"
 
 # Features
 features:
-  - title: "Inhalte"
+  - title: "Was erwartet Sie im Leadership-Training?"
     image: "/images/service-1.png"
-    content: "Lorem Ipsum - lorem Ipsum"
+    content: "Empathische Führungskräfte motivieren ihr Team durch Vertrauen und Wertschätzung. In unserem Leadership-Training lernen Sie, aktiv zuzuhören, konstruktiv Feedback zu geben und als Führungskraft eine inspirierende Unternehmenskultur zu gestalten."
     bulletpoints:
-      - "Führungsstile und Entwicklung des eigenen Führungsstils"
-      - "Aktives Zuhören"
-      - "Grundlagen der Kommunikation"
-      - "Richtig Feedback geben und erhalten"
-      - "Werte meiner Mitarbeiter erkennen und richtig darauf eingehen"
-      - "Coaching Methoden für Führungskräfte"
-      - "Bearbeitung von Praxisfällen im Teamcoaching"
+      - "Unterschiedliche Führungsstile & Entwicklung des eigenen Führungsstils"
+      - "Aktives Zuhören & Empathie als Führungsinstrument"
+      - "Kommunikationsgrundlagen für authentische Führung"
+      - "Konstruktives Feedback geben & annehmen"
+      - "Werte der Mitarbeitenden erkennen & darauf eingehen"
+      - "Coaching-Methoden für Führungskräfte"
+      - "Praxisfälle im Teamcoaching bearbeiten"
     button:
       enable: false
 
-  - title: "Ziele"
+  - title: "Welche Ziele erreichen Sie mit dem Training?"
     image: "/images/service-2.png"
-    content: "Lorem ipsum lorem ipsum"
+    content: "Unser Training hilft Ihnen, Ihre Führungsrolle klar zu definieren, Offenheit und Neutralität zu bewahren und eine Kultur der Eigenverantwortung zu etablieren. So steigern Sie langfristig die Zufriedenheit und Motivation Ihres Teams."
     bulletpoints:
-      - "Selbstreflexion stärken"
-      - "Offenheit und Neutralität bewahren"
-      - "Neue Ideen und Impulse der Mitarbeiter erkennen und zulassen"
-      - "Linie zwischen der Rolle als Kollege und Chef definieren"
-      - "Eigene- und Mitarbeiterzufriedenheit steigern"
-      - "Verantwortung abgeben"
+      - "Selbstreflexion als Führungskraft stärken"
+      - "Offenheit & Neutralität bewahren, auch in herausfordernden Situationen"
+      - "Mitarbeitende fördern & ihre Ideen wertschätzen"
+      - "Grenzen zwischen Kollegialität & Führung klar definieren"
+      - "Zufriedenheit im Team & persönliche Führungsstärke steigern"
+      - "Verantwortung delegieren & Vertrauen schaffen"
     button:
       enable: false
 
-  - title: "Kunden"
+  - title: "Für wen ist das Training geeignet?"
     image: "/images/service-3.png"
-    content: "Lorem ipsum lorem ipsum"
+    content: "Dieses Leadership-Training richtet sich an neue & erfahrene Führungskräfte, die ihre Kommunikationsfähigkeiten verbessern und empathischer führen möchten."
     bulletpoints:
-      - "Werdende oder junge Führungskräfte"
+      - "Neue oder werdende Führungskräfte"
       - "Erfahrene Führungskräfte in konservativen Unternehmen"
-      - "Führungskräfte, die mit internationalen oder stark gemischten Teams arbeiten"
-      - "Weibliche Führungskräfte in Männerdomänen"
+      - "Führungskräfte in internationalen oder diversen Teams"
+      - "Weibliche Führungskräfte in männerdominierten Branchen"
     button:
       enable: true
       label: "Interesse geweckt?"

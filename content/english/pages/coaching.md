@@ -1,72 +1,69 @@
 ---
 title: "Coaching"
-meta_title: "coaching"
-description: "Fabellhaftes Coaching"
+subtitle: "Individuelle Entwicklung für Führungskräfte & Teams"
+meta_title: "Business Coaching & Karriere Coaching in München"
+description: "Individuelles Coaching für Führungskräfte, Teams und Privatpersonen in München. Lösungen entwickeln, Klarheit gewinnen & erfolgreich wachsen."
 draft: false
 ---
 
 #### Was ist Coaching?
 
-Unsere Coachings basieren auf den Prinzipien des systemischen Coachings. Jeder Mensch weiß eigentlich, was er tun muss, um sein höchstes Potential zu entfalten oder sein derzeitiges Problem zu lösen. Das ist unser wichtigstes Prinzip. Wir wollen weg von Ratschlägen und Beratung und hin zur Selbsterkenntnis und eigenständiger Problemlösung. Man meint, dass Coaching eine neue Modeerscheinung ist, doch bereits Sokrates war für seine Technik der Mäeutik bekannt, in der er durch gezielte Fragetechniken seine Mitmenschen zum Denken und zur Erkenntnis anregen konnte. Die Technik wird oft mit der Arbeit einer Hebamme verglichen. Sie unterstützt die Gebärende dabei, ihr Kind eigenständig auf die Welt zu bringen.
+Unser **systemisches Coaching** hilft Ihnen, Ihre eigenen Lösungen zu finden und Ihr volles Potenzial zu entfalten. Wir setzen auf Selbstreflexion statt starrer Ratschläge, damit Sie nachhaltig wachsen.
 
-{{< slider dir="images/gallery" class="max-w-[600px] ml-0"  width="330" webp="true" command="fit" option="" zoomable="false" >}}
+Coaching ist keine Modeerscheinung – schon Sokrates nutzte die *Mäeutik*, eine Fragetechnik zur Selbsterkenntnis. Ähnlich wie eine Hebamme unterstützt Coaching dabei, Klarheit und Lösungen selbstständig zu gebären.
 
-#### Wer sind unsere Coaching-Klienten?
+#### Für wen ist unser Coaching geeignet?
 
-Mit einer weiten Spanne an zufriedenen Klienten konnten wir bei Bell Coaching und Training bereits Personen und Teams aus den folgenden Zielgruppen passgenau weiterhelfen:
+Wir begleiten seit Jahren Klienten aus verschiedenen Bereichen – individuell, praxisnah und lösungsorientiert:
 
-- **Führungskräfte** die ihren Führungsstil finden oder feinschleifen wollen. Die selbstreflektiert sind und ihre Kompetenzen im Bereich Kommunikation, Feedback und Empathie beleuchten und zum Glänzen bringen möchten.
-- **Mitarbeiter aus Unternehmen** die gern mit einer neutralen außenstehenden Person alltägliche Herausforderungen in Teamarbeit, Vertrieb und Kundenbetreuung besprechen und selber lösen möchten.
-- **Teams** die täglich zusammen arbeiten und durch gemeinsame Coaching Sessions den Zusammenhalt stärken und lernen wollen, die Perspektive ihrer Teammitglieder einzunehmen, zu verstehen und wertschätzend damit umzugehen.
-- **Privatpersonen** die eine berufliche Veränderung ersehnen oder ihren derzeitigen Karriereweg hinterfragen. Die gut gemeinte Ratschläge von Freunden und Familie nicht mehr weiterbringen und einen neutralen Profi von außen brauchen.
-- **Schüler und Studenten** die Klarheit für ihre Lernstrategien und Organisation brauchen, um den richtigen Weg für die Zukunft einzuschlagen.
+- **Führungskräfte**, die ihren Führungsstil weiterentwickeln, Kommunikationsstärke ausbauen und souverän agieren möchten.
+- **Mitarbeiter:innen**, die alltägliche Herausforderungen in Teamarbeit, Vertrieb oder Kundenbetreuung besser meistern wollen.
+- **Teams**, die ihre Zusammenarbeit stärken, Konflikte produktiv lösen und eine wertschätzende Unternehmenskultur fördern möchten.
+- **Privatpersonen**, die sich beruflich neu orientieren oder Klarheit über ihren Karriereweg gewinnen wollen.
+- **Schüler & Studierende**, die effektive Lernstrategien und bessere Selbstorganisation für ihre Zukunft entwickeln möchten.
 
-#### Welche Methoden verwenden wir im Coaching?
+#### Unsere Methoden im Coaching:
 
-**Unsere Mission:** Um unseren Klienten optimal bei ihren Fragestellungen zu helfen, stehen uns eine Vielzahl von bewährten und zielführenden Methodiken zur Verfügung.
+Um Sie bestmöglich zu unterstützen, nutzen wir eine Vielzahl bewährter Coaching-Techniken:
 
-- **Systemisches Coaching** Fragestellungen, Perspektivenwechsel, Erkennung von Mustern 
-- **NLP** Neuro-Linguistische Programmierung
-- **Visualisierungsübungen**
-- **Innerer Dialog und Rollenspiel**
-- **Visionsaktivierung** 
-- **Struktur- und Organisationsmethoden**
+- **Systemisches Coaching** – Muster erkennen, Perspektiven wechseln, neue Lösungen entwickeln.
+- **Neuro-Linguistisches Programmieren (NLP)** – Mentale Blockaden lösen & Veränderung aktiv gestalten.
+- **Visualisierungstechniken** – Klarheit über Ziele & innere Prozesse schaffen.
+- **Innerer Dialog & Rollenspiele** – Neue Handlungsstrategien ausprobieren & verinnerlichen.
+- **Visionsarbeit & Strukturmethoden** – Die eigenen Ziele schärfen & in die Umsetzung kommen.
 
-#### FAQ's
+---
 
-{{< accordion "Wie kommt ein Coaching zustande?" >}}
+### **Häufig gestellte Fragen (FAQ)**
 
-Kontaktieren Sie uns per E-Mail oder Telefon und wir machen einen ersten Termin aus um eine Bedarfsanalyse zu erstellen. Danach folgt ein Kennenlerngespräch mit dem für Sie passenden Coach, in dem die Rahmenaspekte (Zeit, Ort, Dauer, Häufigkeit und Kosten) des Coachings definiert werden.
+{{< accordion "Wie läuft ein Coaching ab?" >}}
 
-**Coaching-Sessions:**
-- Zustandsanalyse
-- Definition des Anliegens und der Ziele
-- Coaching in Form von systemischen Fragetechniken und gängigen Coaching-Methoden
-- Festlegung von Übungen und Aufgaben zwischen den Coachings
+1. **Kontaktaufnahme:** Vereinbaren Sie ein Erstgespräch per E-Mail oder Telefon.
+2. **Bedarfsanalyse:** Wir klären Ihre Ziele und Herausforderungen.
+3. **Coaching-Sessions:** Individuelle Begleitung mit systemischen Fragetechniken & bewährten Coaching-Methoden.
+4. **Umsetzung & Reflexion:** Übungen und Transferaufgaben zwischen den Sessions.
 
 {{< /accordion >}}
 
 {{< accordion "Wo findet das Coaching statt?" >}}
 
-In unserem Erstgespräch besprechen wir, wo das Coaching stattfinden soll. Diese Entscheidung trifft der Klient, indem er sich überlegt, wo er sich am wohlsten fühlt und die innere Ruhe und Energie hat, seine Themen anzugehen. Folgende Möglichkeiten bieten wir Ihnen:
+Ihr Wohlbefinden steht im Mittelpunkt – deshalb entscheiden Sie, wo das Coaching stattfindet:
 
-- In unseren Räumlichkeiten in München Solln
+- In unseren Räumlichkeiten in **München Solln**
 - In Ihrem Unternehmen
-- In Ihren privaten Räumlichkeiten (vor allem bei Coachings für Schüler und Studenten erwünscht)
 - Online
+- Auf Wunsch auch in Ihren privaten Räumlichkeiten (besonders bei Schüler:innen & Studierenden)
 
 {{< /accordion >}}
 
-{{< accordion "Kann man Coaching steuerlich geltend machen?" >}}
+{{< accordion "Kann ich Coaching steuerlich absetzen?" >}}
 
-Falls Ihr Coaching durch berufliche Verhältnisse begründet werden kann und damit zur Förderung des Berufs beiträgt, können Sie unser Honorar bei Ihrer Steuererklärung als Werbungskosten geltend machen.
-
-{{< /accordion >}}
-
-{{< accordion "Kostenloses Coaching?" >}}
-
-Wir sind der Meinung, dass jeder Mensch das Recht hat, sein Potential zu erkennen und professionell gefördert zu werden. Dies sollte keine Frage des Geldes sein, weshalb wir jedes Jahr 24 Stunden Coaching sozial benachteiligten Personen oder Studenten zur Verfügung stellen. Kommen Sie diesbezüglich gern auf uns zu.
+Ja! Wenn das Coaching beruflich relevant ist, können Sie die Kosten in der Steuererklärung als **Werbungskosten** geltend machen.
 
 {{< /accordion >}}
 
+{{< accordion "Gibt es kostenlose Coaching-Angebote?" >}}
 
+Wir glauben, dass Coaching für alle zugänglich sein sollte. Deshalb bieten wir jährlich **24 Stunden kostenfreies Coaching** für sozial benachteiligte Personen & Studierende an. Kontaktieren Sie uns gerne für weitere Infos.
+
+{{< /accordion >}}

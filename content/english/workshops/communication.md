@@ -1,53 +1,56 @@
 ---
+title: "Kommunikationstraining für Teams & Führungskräfte"
+meta_title: "Kommunikation verbessern – Workshop für Unternehmen"
+description: "Kommunikationstraining für Unternehmen: Missverständnisse vermeiden, Teamzusammenhalt stärken & wertschätzend kommunizieren."
+draft: false
+
 # Banner
 banner:
-  title: "Kommunikation"
-  content: "Rücksichtsvoll und Fördernd"
+  title: "Kommunikation, die verbindet"
+  content: "Klarheit, Empathie & aktives Zuhören – stärken Sie die Kommunikationskultur in Ihrem Unternehmen und verbessern Sie die Zusammenarbeit im Team."
   image: "/images/banner.png"
   button:
     enable: false
 
 # Features
 features:
-  - title: "Inhalte"
+  - title: "Was erwartet Sie im Kommunikationstraining?"
     image: "/images/service-1.png"
-    content: "Lorem Ipsum - lorem Ipsum"
+    content: "Effektive Kommunikation ist der Schlüssel zu erfolgreicher Zusammenarbeit. In diesem Training lernen Sie, klar und wertschätzend zu kommunizieren, Missverständnisse zu vermeiden und Beziehungen im Team nachhaltig zu stärken."
     bulletpoints:
-      - "Wichtige Kommunikationsmodelle"
-      - "Perspektivenwechsel"
-      - "Empathie"
-      - "Wertesysteme erkennen und darauf reagieren"
-      - "Aktives Zuhören"
+      - "Grundlagen der erfolgreichen Kommunikation"
+      - "Perspektivenwechsel & Empathie in Gesprächen"
+      - "Wertesysteme erkennen & darauf reagieren"
+      - "Aktives Zuhören für bessere Verständigung"
+      - "Feedback geben & annehmen – ohne Konflikte"
     button:
       enable: false
 
-  - title: "Ziele"
+  - title: "Welche Ziele erreichen Sie mit dem Training?"
     image: "/images/service-2.png"
-    content: "Lorem ipsum lorem ipsum"
+    content: "Unser Training hilft Ihnen, Kommunikationsfallen zu erkennen, Konflikte zu vermeiden und eine offene Unternehmenskultur zu fördern."
     bulletpoints:
-      - "Offene Kommunikation im Team"
-      - "Unnötige Konflikte erst gar nicht entstehen lassen"
-      - "Gutes Feedback geben und Kritik erhalten können"
-      - "Gemeinsame Werte definieren"
-      - "Mitarbeiter langfristig binden"
-      - "Tolle Arbeitsatmosphäre schaffen"
-      - "Abgestimmte Zusammenarbeit zwischen Abteilungen mit unterschiedlichen Aufgaben (z.B. Vertrieb vs. Entwicklung)"
-      - "Mitarbeiterpotential fördern"
-      - "Aktives Zuhören lernen"
-      - "Empathie für das Gegenüber aufbauen"
-      - "Seine eigenen Bedürfnisse und die Bedürfnisse des Gegenübers verstehen und darauf eingehen"
+      - "Offene & vertrauensvolle Kommunikation im Team"
+      - "Missverständnisse & unnötige Konflikte vermeiden"
+      - "Konstruktives Feedback geben & Kritik professionell annehmen"
+      - "Gemeinsame Werte im Unternehmen definieren"
+      - "Mitarbeitende langfristig binden & motivieren"
+      - "Positive & produktive Arbeitsatmosphäre schaffen"
+      - "Zusammenarbeit zwischen Abteilungen verbessern (z. B. Vertrieb vs. Entwicklung)"
+      - "Potenziale von Mitarbeitenden gezielt fördern"
+      - "Eigene & fremde Bedürfnisse verstehen & berücksichtigen"
     button:
       enable: false
 
-  - title: "Kunden"
+  - title: "Für wen ist das Training geeignet?"
     image: "/images/service-3.png"
-    content: "Lorem ipsum lorem ipsum"
+    content: "Dieses Training richtet sich an Unternehmen & Organisationen, die eine starke Kommunikationskultur aufbauen und Teams effektiver zusammenarbeiten lassen möchten."
     bulletpoints:
-      - "Unternehmen, bei denen in Teams gearbeitet wird"
-      - "Unternehmen mit unterschiedlichen Abteilungen, die voneinander abhängig sind"
-      - "Start-Ups"
-      - "Bildungseinrichtungen"
-      - "Staatliche Einrichtungen"
+      - "Unternehmen mit Teamarbeit & interdisziplinären Teams"
+      - "Firmen mit Abteilungen, die eng zusammenarbeiten (z. B. Vertrieb & Entwicklung)"
+      - "Start-ups, die ihre Kommunikationskultur von Beginn an stärken wollen"
+      - "Bildungseinrichtungen & Hochschulen"
+      - "Staatliche Einrichtungen & Non-Profit-Organisationen"
     button:
       enable: true
       label: "Interesse geweckt?"
