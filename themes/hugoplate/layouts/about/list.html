@@ -1,11 +1,39 @@
 {{ define "main" }}
+{{ partial "page-header" . }}
   <section class="section-sm">
     <div class="container">
       <div class="row justify-center">
         <div class="md:col-10 lg:col-7 text-center">
-          <h2 class="h3 mb-6">{{ .Title }}</h2>
-          <div class="content">{{ .Content }}</div>
-          {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Description "Class" "mx-auto mb-6") }}
+          <div class="vision">
+            <div class="mb-6">
+              <h3 class="h3 mb-6">{{ .Params.vision.headline | markdownify }}</h3>
+              <p class="mb-8">{{ .Params.vision.content | markdownify }}</p>
+            </div>
+          </div>
+          <div class="founder mb-6">
+              <div class="flex justify-center my-6">
+                {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Description "Class" "mx-auto mb-6 rounded") }}
+              </div>
+              <div>
+                <h3 class="h3 mb-6">{{ .Params.founder.headline | markdownify }}</h3>
+                <p class="content mb-6">{{ .Params.founder.content | markdownify }}</p>
+              </div>
+          </div>
+          <div class="mission">
+            <div class="mb-6">
+              <h3 class="h3 mb-6">{{ .Params.mission.headline | markdownify }}</h3>
+              <div class="flex justify-center">
+                <ul class="mb-6 inline-block text-left w-7/8">
+                  {{ range .Params.mission.bulletPoints }}
+                    <li class="relative mb-4 pl-6">
+                      <i class="fa fa-check absolute left-0 top-1.5"></i>
+                      {{ . | markdownify }}
+                    </li>
+                  {{ end }}
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
